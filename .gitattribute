@@ -1,0 +1,5 @@
+# Jupyter notebook
+*.ipynb  text eol=lf
+*.ipynb filter=nbstripout
+*.ipynb diff=nbdiff
+*.ipynb merge=nbmerge
